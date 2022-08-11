@@ -1,0 +1,16 @@
+{
+    "name": "EE.Actions.Components",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b352106f17b95434abb776c9abaa348d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
